@@ -39,7 +39,7 @@ Access the application at http://localhost:8000/restaurant/index
 
 Explore the Little Lemon Restaurant Booking System and witness the following functionalities:
 
-- **API Endpoints:** Discover API paths such as `/api/bookings/` and `/api/registration/`.
+- **API Endpoints:** Discover API paths such as `/api/bookings/` and `/api/menu/`.
 
 - **User-Friendly Interface:** The application seamlessly connects the Little Lemon restaurant back-end to MySQL, enabling smooth user interactions.
 
