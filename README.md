@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Little Lemon Restaurant Booking System! This project is the culmination of my work in the Meta Full Stack Course. The main objective was to create a dynamic booking system for the Little Lemon restaurant website using Django and Django REST Framework.
+Welcome to the Little Lemon Restaurant Booking System! This project is the culmination of my work in the Meta Back-End Developer Certificate. The main objective was to create a dynamic booking system for the Little Lemon restaurant website using Django and Django REST Framework.
 
 ## Key Features
 
