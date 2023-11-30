@@ -31,7 +31,7 @@ Welcome to the Little Lemon Restaurant Booking System! This project is the culmi
    python manage.py makemigrations
    python manage.py migrate
    python manage.py runserver
-```
+   ```
 
 Access the application at http://localhost:8000/restaurant/index
 
