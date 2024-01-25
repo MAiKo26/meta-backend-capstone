@@ -1,4 +1,4 @@
-# Little Lemon Restaurant Booking System
+# Meta Back-End Capstone
 
 ## Project Overview
 
